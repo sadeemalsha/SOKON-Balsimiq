@@ -1,0 +1,2 @@
+# SOKON-Balsimiq
+Balsamiq is web-based wireframing and mockup tool with a high focus on usability.  Using Balsamiq this mobile application “Sokon” was developed to help students cope with their social anxiety by incorporating different tools that help with reducing social anxiety. It also provides a psychological counseling that guide the students and help them overcome their anxiety using professional solutions.
